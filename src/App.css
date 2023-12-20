@@ -1722,7 +1722,7 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 .hero {
-  background-image: url("./images/hero.jpg");
+  background-image: url("./images/comp.jpg");
   height: 80vh;
   background-position: center;
   background-repeat: no-repeat;
